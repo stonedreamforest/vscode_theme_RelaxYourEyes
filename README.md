@@ -4,7 +4,9 @@
 配合插件：[One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
 
 
-最新版本：2017-5-5
+- 最新版本：2017-5-5
+
+复制以下文本到**settings.json**
 ```
 "workbench.colorCustomizations": {
         "editor.background": "#2d2d2d",
