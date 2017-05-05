@@ -31,4 +31,4 @@
 
 
 动画：
-![screenshot](https://github.com/stonedreamforest/vscode_theme_RelaxYourEyes/blob/master/2017-05-05_21-47-43.gif)
+![screenshot](https://github.com/stonedreamforest/vscode_theme_RelaxYourEyes/blob/master/2017-05-05_22-00-32.gif)
